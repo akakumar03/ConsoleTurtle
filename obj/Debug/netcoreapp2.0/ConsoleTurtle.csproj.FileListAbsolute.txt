@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\bin\Debug\netcoreapp2.0\ConsoleTurtle.deps.json
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\bin\Debug\netcoreapp2.0\ConsoleTurtle.runtimeconfig.json
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\bin\Debug\netcoreapp2.0\ConsoleTurtle.runtimeconfig.dev.json
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\bin\Debug\netcoreapp2.0\ConsoleTurtle.dll
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\bin\Debug\netcoreapp2.0\ConsoleTurtle.pdb
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.AssemblyInfo.cs
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.dll
+c:\users\pc\source\repos\ConsoleTurtle\ConsoleTurtle\obj\Debug\netcoreapp2.0\ConsoleTurtle.pdb
